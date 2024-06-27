@@ -22,6 +22,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Beeper-iMessage Guide: 2024](https://joshuafhiggins.github.io/post/the-ultimate-beeper-guide-2024/)
+- [Site Redesign: 2024](https://joshuafhiggins.github.io/post/site-redesigned-2024/)
+- [Click Counter v2.4.1 Release](https://joshuafhiggins.github.io/post/clickcounter-v2.4.1/)
+- [Click Counter v2.4.0 Release](https://joshuafhiggins.github.io/post/clickcounter-v2.4.0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
