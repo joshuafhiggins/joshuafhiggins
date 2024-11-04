@@ -6,9 +6,9 @@
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuafhiggins" alt="joshuafhiggins" /></a> </p>)
 [//]: # (- 👯 I’m looking to collaborate on [test]&#40;test&#41;)
 
-- 🔭 I’m currently working on [a secret project]()
+- 🔭 I’m currently working on [Realm](https://realm.abunchofknowitalls.com)
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **Next.js**
 
 - 🤝 I’m looking for help with [mautrix/imessage](https://github.com/mautrix/imessage)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **joshuafhiggins@abunchofknowitalls.com**
 
-- ⚡ Fun quote: ***Computer's are like Old Testament gods; Lot's of rules and no mercy*** *- Sid Meier's Civilization V*
+- ⚡ Fun quote: ***"Computer's are like Old Testament gods; Lot's of rules and no mercy"***
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
