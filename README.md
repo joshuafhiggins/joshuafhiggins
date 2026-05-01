@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing, Realm](https://joshuafhiggins.abunchofknowitalls.com/post/realm-accouncement/)
-- [The Ultimate Beeper-iMessage Guide: 2024](https://joshuafhiggins.abunchofknowitalls.com/post/the-ultimate-beeper-guide-2024/)
-- [Site Redesign: 2024](https://joshuafhiggins.abunchofknowitalls.com/post/site-redesigned-2024/)
-- [Click Counter v2.4.1 Release](https://joshuafhiggins.abunchofknowitalls.com/post/clickcounter-v2.4.1/)
+- [Introducing, Realm](/post/realm-accouncement/)
+- [The Ultimate Beeper-iMessage Guide: 2024](/post/the-ultimate-beeper-guide-2024/)
+- [Site Redesign: 2024](/post/site-redesigned-2024/)
+- [Click Counter v2.4.1 Release](/post/clickcounter-v2.4.1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
