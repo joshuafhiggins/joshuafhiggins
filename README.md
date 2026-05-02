@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **making frontends in Rust**
 
-- 👨‍💻 All of my projects are available at [joshuafhigginsabunchofknowitalls.com](https://joshuafhiggins.abunchofknowitalls.com/)
+- 👨‍💻 All of my projects are available on my [blog](https://joshuafhiggins.abunchofknowitalls.com/)
 
 - 📫 How to reach me **joshuafhiggins@abunchofknowitalls.com**
 
-- ⚡ Fun quote: _"Computer's are like Old Testament gods; Lot's of rules and no mercy" - Sid Meier's Civilization V_
+- ⚡ Fun quote: _"Computer's are like Old Testament gods; Lot's of rules and no mercy" - Civilization V_
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
